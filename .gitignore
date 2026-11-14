@@ -1,0 +1,10 @@
+# Workspace tooling, kept out of this public repository on purpose.
+# It is written for GoGoo staff and agents; sync-githooks.sh and
+# build-agents-md.mjs recreate it in any clone inside the workspace.
+AGENTS.md
+.githooks/
+
+# Banner concepts shown to the owner for a choice; never published.
+profile/assets/options/
+
+.DS_Store
